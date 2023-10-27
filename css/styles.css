@@ -1,0 +1,11 @@
+.task2 {
+    box-sizing: border-box;
+    padding: 15px 10px 20px 10px;
+    width: 350px;
+    height: 220px;
+    background-color: green;
+    padding-bottom: 20px;
+    border-color: red;
+    border-width: 2px;
+    border-style: dotted;
+}
